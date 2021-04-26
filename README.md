@@ -1,4 +1,12 @@
-This is the task I made for https://gist.github.com/imbaniac/ae572acc0384003d3470cca6377f8310.
+A task I made for a trainee position. 
+
+The task itself: 
+
+"Generate plausible data on page load;
+Initially, the table is sorted according to the final places in the race;
+Additionally, it should be possible to sort by: name, hits, rate of fire;
+Search by name;
+Stack: any framework, any libraries."
 
 To run it: 
 1. Clone this repository to your local machine. 
